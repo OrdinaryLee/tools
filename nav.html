@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>nav</title>
+</head>
+<body>
+<ul id="ll"></ul>
+<script src="nav.js"></script>
+<script>
+	for (var i = nav.length - 1; i >= 0; i--) {
+		nav[i].name
+		li = document.createElement('li')
+		a = document.createElement('a')
+		a.href = nav[i].url
+		a.innerHTML = nav[i].name
+		li.appendChild(a)
+		ll.appendChild(li)
+	}
+</script>
+</body>
+</html>
