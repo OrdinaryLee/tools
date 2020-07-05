@@ -1,1 +1,1 @@
-var nav = [{"name": "tools/nav.js at master \u00b7 OrdinaryLee/tools", "url": "https://github.com/OrdinaryLee/tools/blob/master/nav.js"}, {"name": "Python 3 Module of the Week \u2014 PyMOTW 3", "url": "https://pymotw.com/3/index.html"}]
+var nav = [{"name": "tools/nav.js at master \u00b7 OrdinaryLee/tools", "url": "https://github.com/OrdinaryLee/tools/blob/master/nav.js"}, {"name": "Python 3 Module of the Week \u2014 PyMOTW 3", "url": "https://pymotw.com/3/index.html"}, {"name": "\u91d1\u878d\u8fd8\u6b3e-8-5 - \u5b83\u60e0\u7f51", "url": "https://www.tahui.com/rpt/313228"}]
